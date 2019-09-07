@@ -1,9 +1,9 @@
-# vlc-discord-rpc
-Discord rich presence for VLC media player.
+# vlc-discord-rpc-shiny
+Discord rich presence for VLC media player. It's called shiny because it changes appearance more than the original.
 
 ![Example](./example.png)
 
-Join us on [Discord](https://discord.gg/3Fu6KHd).
+[Original repository](https://github.com/Pigpog/vlc-discord-rpc).
 
 ## Requirements
 - [NodeJS and NPM](https://nodejs.org/en/)

@@ -3,19 +3,38 @@ const config = require('../../config/config.js');
 const diff = require('../vlc/diff.js');
 const format = require('./format.js');
 const log = require('../helpers/lager.js');
+const MetaBank = require('../helpers/metabank.js');
 
-const client = new RPC.Client({ transport: 'ipc' });
+let client = new RPC.Client({ transport: 'ipc' });
 let awake = true;
 let timeInactive = 0;
+let metabank = new MetaBank();
+let lastID = config.rpc.id;
+
 
 /**
  * @function update
  * Responsible for updating the
    user's presence.
 */
-function update() {
-  diff((status, difference) => {
+async function update() {
+  await diff(async function(status, difference) {
     if (difference) {
+      const { meta } = status.information.category;
+      let title = undefined;
+      data = metabank.findMeta(meta.title || meta.filename);
+      if(data){
+        meta.title = data.title;
+        meta.image = data.image;
+        if(data.appid != lastID){
+          lastID = data.appid;
+          if(client){
+            client.destroy();
+          }
+          client = new RPC.Client({ transport: 'ipc' });
+          await client.login({ clientId: lastID })
+        }
+      }
       client.setActivity(format(status));
       if (!awake) {
         client.setActivity(format(status));

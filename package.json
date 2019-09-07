@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "discord-rpc": "^3.0.1",
+    "fs": "0.0.1-security",
     "vlc.js": "^1.2.0"
   },
   "scripts": {

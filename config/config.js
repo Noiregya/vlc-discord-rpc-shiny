@@ -6,7 +6,7 @@ function randomPass() {
 
 module.exports = {
   startupCommands: {
-    win32: 'C:/Program Files/VideoLAN/VLC/vlc.exe',
+    win32: 'C:/Program Files (x86)/VideoLAN/VLC/vlc.exe',
     linux: '/usr/bin/vlc',
     unix: '/usr/bin/vlc',
     darwin: '/Applications/VLC.app/Contents/MacOS/VLC',
@@ -21,5 +21,10 @@ module.exports = {
     port: 9090,
     address: 'localhost',
     detached: false, // Launch VLC seperately
+  },
+  repository: {
+    port: 80,
+	local: true, //will use the local repository.json file
+    address: 'localhost', //Used only when local == false
   },
 };

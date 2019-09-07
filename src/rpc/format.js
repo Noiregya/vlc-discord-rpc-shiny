@@ -1,4 +1,5 @@
 const log = require('../helpers/lager.js');
+//const log = require('../helpers/metabank.js');
 
 module.exports = (status) => {
   // if playback is stopped
@@ -14,7 +15,7 @@ module.exports = (status) => {
   const { meta } = status.information.category;
   const output = {
     details: meta.title || meta.filename,
-    largeImageKey: 'vlc',
+    largeImageKey: meta.image || 'vlc',
     smallImageKey: status.state,
     smallImageText: `Volume: ${Math.round(status.volume / 2.56)}%`,
     instance: true,
