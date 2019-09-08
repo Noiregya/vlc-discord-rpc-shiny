@@ -93,6 +93,6 @@
     "appid": "503277705819586582",
     "image":"toutsukijuukketsu",
     "title": "Food Wars! Toutsuki Juukketsu",
-    "regExp": "toutsuki.j[uu|ū]kketsu|"
+    "regExp": "toutsuki.j[uu|ū]kketsu"
   }
 ]

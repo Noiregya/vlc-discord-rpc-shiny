@@ -4,6 +4,7 @@ Discord rich presence for VLC media player. It's called shiny because it changes
 ![Example](./example.png)
 
 [Original repository](https://github.com/Pigpog/vlc-discord-rpc).
+[Discord Server](https://discord.gg/QMDnbQ8).
 
 ## Requirements
 - [NodeJS and NPM](https://nodejs.org/en/)
