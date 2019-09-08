@@ -24,8 +24,12 @@ async function update() {
       let title = undefined;
       data = metabank.findMeta(meta.title || meta.filename);
       if(data){
-        meta.title = data.title;
-        meta.image = data.image;
+        if(!meta.title){
+          meta.title = data.title;
+        }
+        if(data.image){
+          meta.image = data.image;
+        }
         if(data.appid != lastID){
           lastID = data.appid;
           if(client){
@@ -34,6 +38,13 @@ async function update() {
           client = new RPC.Client({ transport: 'ipc' });
           await client.login({ clientId: lastID })
         }
+      }else if(config.rpc.id != lastID){
+        lastID = config.rpc.id;
+        if(client){
+          client.destroy();
+        }
+        client = new RPC.Client({ transport: 'ipc' });
+        await client.login({ clientId: lastID })
       }
       client.setActivity(format(status));
       if (!awake) {

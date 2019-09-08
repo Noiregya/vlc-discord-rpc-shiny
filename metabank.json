@@ -94,5 +94,240 @@
     "image":"toutsukijuukketsu",
     "title": "Food Wars! Toutsuki Juukketsu",
     "regExp": "toutsuki.j[uu|ū]kketsu"
+  },{
+    "appid": "503277705819586582",
+    "image":"inuyashiki",
+    "title": "Inuyashiki: Last Hero",
+    "regExp": "inuyashiki|いぬやしき"
+  },{
+    "appid": "503277705819586582",
+    "image":"hyperventilation",
+    "title": "Hyperventilation",
+    "regExp": "hyperventilation|뿡빵뀨"
+  },{
+    "appid": "503277705819586582",
+    "image":"worldend",
+    "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+    "regExp": "worldend|what.do.you.do.at.the.end.of.the.world?[.]?are.you.busy?[.]?will.you.save.us?|終末なにしてますか？.忙しいですか？.救ってもらっていいですか？|sh[ū|uu]matsu.nani.shitemasu.ka?[.]?isogashii.desu.ka?[.]?sukutte.moratte.ii.desu.ka?"
+  },{
+    "appid": "503277705819586582",
+    "image":"huajianghuzhihuanshimensheng",
+    "title": "A Portrait of Jianghu: Reincarnated Disciple",
+    "regExp": "hua.jianghu.zhi.huan.shi.men.sheng|the.gate.of.fate|a.portrait.of.jianghu[.|..]reincarnated.disciple|画江湖之换世门生"
+  },{
+    "appid": "503277705819586582",
+    "image":"maryandthewitchsflower",
+    "title": "Mary and the Witch's Flower",
+    "regExp": "メアリと魔女の花|mary.and.the.witch[']?s.flower|meari.to.majo.no.hana"
+  },{
+    "appid": "503277705819586582",
+    "image":"hitorijime",
+    "title": "Hitorijime My Hero",
+    "regExp": "hitorijime.my.hero|ひとりじめマイヒーロー|hitoriji.me.maihīrō"
+  },{
+    "appid": "503277705819586582",
+    "image":"thedragondentist",
+    "title": "The Dragon Dentist",
+    "regExp": "龍の歯医者|the.dragon.dentist|ryū.no.haisha"
+  },{
+    "appid": "503277705819586582",
+    "image":"theroyaltutor",
+    "title": "The Royal Tutor",
+    "regExp": "the.royal.tutor|王室教師ハイネ|[ō|ou]shitsu.ky[ō|ou]shi.haine"
+  },{
+    "appid": "503277705819586582",
+    "image":"ourlovewasalways10cmapart",
+    "title": "Our love has always been 10 centimeters apart",
+    "regExp": "our.love.has.always.been.10.centimeters.apart|いつだって僕らの恋は10センチだった|itsu.datte.bokura.no.koi.wa.10.senchi|datta"
+  },{
+    "appid": "503277705819586582",
+    "image":"knightsandmagic",
+    "title": "Knight's & Magic",
+    "regExp": "knight's.&.magic|ナイツ＆マジック|naitsu.to.majikku"
+  },{
+    "appid": "503277705819586582",
+    "image":"",
+    "title": "",
+    "regExp": ""
+  },{
+    "appid": "503277705819586582",
+    "image":"acca13",
+    "title": "ACCA: 13-Territory Inspection Dept.",
+    "regExp": "acca[.|..]?13-territory.inspection.dept|acca.13区監察課|akka:.jusan-ku.kansatsu-ka"
+  },{
+    "appid": "503277705819586582",
+    "image":"princessprincipal",
+    "title": "Princess Principal",
+    "regExp": "princess.principal|プリンセス・プリンシパル|purinsesu|purinshiparu"
+  },{
+    "appid": "503277705819586582",
+    "image":"kakegurui",
+    "title": "Kakegurui – Compulsive Gambler",
+    "regExp": "kakegurui|賭ケグルイ"
+  },{
+    "appid": "503277705819586582",
+    "image":"kinosjourney",
+    "title": "Kino’s Journey – The Beautiful World –",
+    "regExp": "kino[.]?s.journey[.|..|...]the.beautiful.world[.|..|...]|奇诺之旅-美丽的世界"
+  },{
+    "appid": "503277705819586582",
+    "image":"mutafukaz",
+    "title": "Mutafukaz",
+    "regExp": "mutafukaz|mfkz"
+  },{
+    "appid": "503277705819586582",
+    "image":"blame",
+    "title": "BLAME!",
+    "regExp": "blame!|blame!:|the|ancient|terminal|city[.|..]blame![.|..]?tanmatsu.ikou.toshi"
+  },{
+    "appid": "503277705819586582",
+    "image":"blends",
+    "title": "Blend S",
+    "regExp": "ブレンド.S|burendo.esu|blend.s)"
+  },{
+    "appid": "503277705819586582",
+    "image":"luoverthewall",
+    "title": "Lu over the Wall",
+    "regExp": "lu.over.the.wall|夜明け告げるルーのうた|yoaketsugeru.rū.no.uta"
+  },{
+    "appid": "503277705819586582",
+    "image":"restauranttoanotherworld",
+    "title": "Restaurant to Another World",
+    "regExp": "restaurant.to.another.world|異世界食堂|isekai.shokud[ō|ou]"
+  },{
+    "appid": "503277705819586582",
+    "image":"recreators",
+    "title": "Re:Creators",
+    "regExp": "re:creators|レクリエイターズ|re:kurieit[ā|aa]zu"
+  },{
+    "appid": "503277705819586582",
+    "image":"grimoireofzero",
+    "title": "Grimoire of Zero",
+    "regExp": "grimoire.of.zero|ゼロから始める魔法の書|zero.kara.majimeru.mahō.no.sho"
+  },{
+    "appid": "503277705819586582",
+    "image":"akashicrecords",
+    "title": "Akashic Records of Bastard Magic Instructor",
+    "regExp": "akashic.records.of.bastard.magic.instructor|ロクでなし魔術講師と禁忌教典アカシックレコード|roku.de.nashi.majutsu.k[ō|ou]shi.to.akashikku.rek[ō|ou]do"
+  },{
+    "appid": "503277705819586582",
+    "image":"scumswish",
+    "title": "Scum's Wish",
+    "regExp": "scum[.]?s.wish|クズの本懐|kuzu.no.honkai"
+  },{
+    "appid": "503277705819586582",
+    "image":"konohanakitan",
+    "title": "Konohana Kitan",
+    "regExp": "konohana.kitan|このはな綺譚"
+  },{
+    "appid": "503277705819586582",
+    "image":"gabrieldropout",
+    "title": "Gabriel DropOut",
+    "regExp": "gabriel.dropout|ガヴリールドロップアウト|gavur[ī|ii]ru.doroppuauto"
+  },{
+    "appid": "503277705819586582",
+    "image":"blackclover",
+    "title": "Black Clover",
+    "regExp": "black.clover|ブラッククローバー|burakku.kurōbā"
+  },{
+    "appid": "503277705819586582",
+    "image":"shaonianjinyiwei",
+    "title": "Shaonian Jinyiwei",
+    "regExp": "少年锦衣卫|shaonian.jinyiwei|the.young.imperial.guards"
+  },{
+    "appid": "503277705819586582",
+    "image":"sakuraquest",
+    "title": "Sakura Quest",
+    "regExp": "サクラクエスト|sakura.[kuesuto|quest]"
+  },{
+    "appid": "503277705819586582",
+    "image":"wangguxianqiong",
+    "title": "Everlasting Immortal Firmament",
+    "regExp": "everlasting.immortal.firmament|万古仙穹|wangu.xian.qiong"
+  },{
+    "appid": "503277705819586582",
+    "image":"aninitsukeru",
+    "title": "Ani ni Tsukeru Kusuri wa Nai!",
+    "regExp": "ani.ni.tsukeru.kusuri.wa.nai|兄に付ける薬はない！|there's.no.cure.for.my.brother"
+  },{
+    "appid": "503277705819586582",
+    "image":"childrenofthewhales",
+    "title": "Children of the Whales",
+    "regExp": "children.of.the.whales|クジラの子らは砂上に歌う|kujira.no.kora.wa.sajō.ni.utau"
+  },{
+    "appid": "503277705819586582",
+    "image":"uqholder",
+    "title": "UQ Holder!",
+    "regExp": "uq.holder!"
+  },{
+    "appid": "503277705819586582",
+    "image":"fateapocrypha",
+    "title": "Fate/Apocrypha",
+    "regExp": "fate[.]?apocrypha|フェイト/アポクリファ|feito[.]?apokurifa"
+  },{
+    "appid": "503277705819586582",
+    "image":"genocidalorgan",
+    "title": "Genocidal Organ",
+    "regExp": "genocidal.organ|虐殺器官|gyakusatsu.kikan"
+  },{
+    "appid": "620310126313734185",
+    "image":"evangeliontvseries",
+    "title": "Neon Genesis Evangelion",
+    "regExp": "neon.genesis.evangelion|新世紀エヴァンゲリオン|shinseiki.evangelion"
+    },{
+    "appid": "503277705819586582",
+    "image":"aliceandzorouko",
+    "title": "Alice & Zouroku",
+    "regExp": "alice.[&|and].zouroku|アリスと蔵六|arisu.to.zouroku"
+  },{
+    "appid": "503277705819586582",
+    "image":"reikenzan",
+    "title": "Spirit Blade Mountain",
+    "regExp": "spirit.blade.mountain|reikenzan.[.]?hoshikuzu-tachi.no.utage|霊剣山.星屑たちの宴"
+  },{
+    "appid": "503277705819586582",
+    "image":"altairarecord",
+    "title": "Altair: A Record of Battles",
+    "regExp": "altair.[.]?a.record.of.battles|将国のアルタイル|sh[ō|ou]koku.no.altair"
+  },{
+    "appid": "503277705819586582",
+    "image":"justbecause",
+    "title": "Just Because!",
+    "regExp": "just.because|jasutobik[ō|ou]zu|ジャストビコーズ"
+  },{
+    "appid": "503277705819586582",
+    "image":"saiyukireloadblast",
+    "title": "Saiyuki Reload Blast",
+    "regExp": "[最遊記|saiyuki].reload.blast"
+  },{
+    "appid": "503277705819586582",
+    "image":"classroomoftheelite",
+    "title": "Classroom of the Elite",
+    "regExp": "classroom.of.the.elite|ようこそ実力至上主義の教室へ|y[ō|ou]koso|jitsuryoku.shij[ō|ou].shugi.no.ky[ō|ou]shitsu"
+  },{
+    "appid": "503277705819586582",
+    "image":"interviewwithmonstergirls",
+    "title": "Interviews with Monster Girls",
+    "regExp": "interviews.with.monster.girls|亜人デミちゃんは語りたい|demi-chan.wa.kataritai"
+  },{
+    "appid": "503277705819586582",
+    "image":"mmojunkie",
+    "title": "Recovery of an MMO Junkie",
+    "regExp": "recovery.of.an.mmo.junkie|ネト充のススメ|net-juu.no.susum"
+  },{
+    "appid": "503277705819586582",
+    "image":"tsukigakirei",
+    "title": "Tsukigakirei",
+    "regExp": "tsukigakirei|月がきれい"
+  },{
+    "appid": "503277705819586582",
+    "image":"doupocangqiong",
+    "title": "Doupo Cangqiong",
+    "regExp": "doupo.cangqiong|斗破苍穹"
+  },{
+    "appid": "503277705819586582",
+    "image":"tsuredurechildren",
+    "title": "Tsuredure Children",
+    "regExp": "tsuredure.children|徒然チルドレン|tsurezure.chirudoren"
   }
 ]

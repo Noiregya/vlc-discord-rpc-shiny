@@ -46,4 +46,4 @@ Please see [CONFIGURATION.md](./CONFIGURATION.md) to learn more about manual con
 
 ### Limitations
  - When running multiple concurrent instances, only first-opened instance of VLC will have a rich presence
- - The rich presence cannot display album art
+ - The rich presence cannot display album/thumbnail art, unless added to the [repository](https://discord.gg/QMDnbQ8)
