@@ -17,8 +17,8 @@ module.exports = {
     sleepTime: 30000,
   },
   vlc: {
-    password: '' || randomPass(), // Enter password between the semi-quotes
-    port: 9090,
+    password: 'anime' || randomPass(), // Enter password between the semi-quotes
+    port: 8080,
     address: 'localhost',
     detached: false, // Launch VLC seperately
   },

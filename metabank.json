@@ -1,8 +1,98 @@
 [
-   {
-     "appid": "503277705819586582",
-     "image":"girlslasttour",
-     "title": "Girls' Last Tour",
-     "regExp": "girl[']?s[']?.last.tour|少女終末旅行|shōjo.shūmatsu.ryokō"
-   }
+  {
+    "appid": "503277705819586582",
+    "image":"girlslasttour",
+    "title": "Girls' Last Tour",
+    "regExp": "girl[']?s[']?.last.tour|少女終末旅行|shōjo.shūmatsu.ryokō"
+  },{
+    "appid": "503277705819586582",
+    "image":"madeinabyss",
+    "title": "Made in Abyss",
+    "regExp": "made.in.abyss|meido.in.abisu|メイドインアビス"
+  },{
+    "appid": "503277705819586582",
+    "image":"shouwagenroku",
+    "title": "Descending Stories: Shouwa Genroku Rakugo Shinjuu",
+    "regExp": "shouwa.genroku.rakugo.shinjuu|昭和元禄落語心中"
+  },{
+    "appid": "503277705819586582",
+    "image":"gintamapororihen",
+    "title": "Gintama: Porori-hen",
+    "regExp": "gintama.[.]?porori-hen|銀魂.ポろリ編"
+  },{
+    "appid": "503277705819586582",
+    "image":"youjosenki",
+    "title": "Youjo Senki: Saga of Tanya the Evil",
+    "regExp": "y[ou|ō]jo.senki|幼女戦記"
+  },{
+    "appid": "503277705819586582",
+    "image":"heavensfeel",
+    "title": "Fate/stay night: Heaven's Feel",
+    "regExp": "heaven[.]?s.feel"
+  },{
+    "appid": "503277705819586582",
+    "image":"bookofatlantic",
+    "title": "Girls' Last Tour",
+    "regExp": "girl[']?s[']?.last.tour|少女終末旅行|shōjo.shūmatsu.ryokō"
+  },{
+    "appid": "503277705819586582",
+    "image":"bookofatlantic",
+    "title": "Black Butler: Book of the Atlantic",
+    "regExp": "black.butler:.book.of.the.atlantic|劇場版.[.]?黒執事.book.of.the.atlantic|gekijō-ban.kuroshitsuji:.book.of.the.atlantic"
+  },{
+    "appid": "503277705819586582",
+    "image":"quanzhigaoshou",
+    "title": "Quanzhi Gaoshou",
+    "regExp": "quan[.]?zhi.gao[.]?shou|the.king[.]?s.avatar|full-time.expert|master.of.skills|全职高手"
+  },{
+    "appid": "503277705819586582",
+    "image":"landofthelustrous",
+    "title": "Land of the Lustrous",
+    "regExp": "land.of.the.lustrous|宝石の国|h[ō|ou]seki.no.kuni"
+  },{
+    "appid": "503277705819586582",
+    "image":"kobayashi",
+    "title": "Miss Kobayashi's Dragon Maid",
+    "regExp": "miss.kobayashi[']?s.dragon.maid|小林さんちのメイドラゴン|kobayashi-san.chi.no.meidoragon"
+  },{
+    "appid": "503277705819586582",
+    "image":"welcometotheballroom",
+    "title": "Welcome to the Ballroom",
+    "regExp": "welcome.to.the.ballroom|ボールルームへようこそ|b[ō|ou]rur[ū|ou]mu.e.y[ō|ou]koso"
+  },{
+    "appid": "503277705819586582",
+    "image":"freetakeyourmarks",
+    "title": "Free!: Take Your Marks",
+    "regExp": "free![.|..]?take.your.marks|特別版"
+  },{
+    "appid": "503277705819586582",
+    "image":"lelouchoftherebellion",
+    "title": "Code Geass: Lelouch of the Rebellion",
+    "regExp": "lelouch.of.the.rebellion|コードギアス 反逆のルルーシュ"
+  },{
+    "appid": "503277705819586582",
+    "image":"littlewitchacademia",
+    "title": "Little Witch Academia",
+    "regExp": "little.witch.academia|リトルウィッチアカデミア|ritoru.witchi.akademia"
+  },{
+    "appid": "503277705819586582",
+    "image":"nightisshort",
+    "title": "Night Is Short, Walk On Girl",
+    "regExp": "night.is.short[.|..]walk.on.girl|夜は短し歩けよ乙女|.yoru.wa.mijikashi.aruke.yootome"
+  },{
+    "appid": "503277705819586582",
+    "image":"castelvania",
+    "title": "Castlevania",
+    "regExp": "castlevania"
+  },{
+    "appid": "503277705819586582",
+    "image":"bloodblockadebattlefront",
+    "title": "Blood Blockade Battlefront & Beyond",
+    "regExp": "blood.blockade.battlefront.&.beyond|血界戦線|kekkai.sensen"
+  },{
+    "appid": "503277705819586582",
+    "image":"toutsukijuukketsu",
+    "title": "Food Wars! Toutsuki Juukketsu",
+    "regExp": "toutsuki.j[uu|ū]kketsu|"
+  }
 ]
