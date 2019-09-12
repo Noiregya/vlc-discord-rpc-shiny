@@ -24,7 +24,6 @@ module.exports = {
   },
   repository: {
     port: 80,
-	local: true, //will use the local repository.json file
-    address: 'localhost', //Used only when local == false
+    address: 'http://gya.services/storage/metabank.json',
   },
 };

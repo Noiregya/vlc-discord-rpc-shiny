@@ -146,11 +146,6 @@
     "regExp": "knight's.&.magic|ナイツ＆マジック|naitsu.to.majikku"
   },{
     "appid": "503277705819586582",
-    "image":"",
-    "title": "",
-    "regExp": ""
-  },{
-    "appid": "503277705819586582",
     "image":"acca13",
     "title": "ACCA: 13-Territory Inspection Dept.",
     "regExp": "acca[.|..]?13-territory.inspection.dept|acca.13区監察課|akka:.jusan-ku.kansatsu-ka"
@@ -183,7 +178,7 @@
     "appid": "503277705819586582",
     "image":"blends",
     "title": "Blend S",
-    "regExp": "ブレンド.S|burendo.esu|blend.s)"
+    "regExp": "burendo.esu|blend.s|ブレンド.S"
   },{
     "appid": "503277705819586582",
     "image":"luoverthewall",
@@ -233,12 +228,12 @@
     "appid": "503277705819586582",
     "image":"shaonianjinyiwei",
     "title": "Shaonian Jinyiwei",
-    "regExp": "少年锦衣卫|shaonian.jinyiwei|the.young.imperial.guards"
+    "regExp": "shaonian.jinyiwei|the.young.imperial.guards|少年锦衣卫"
   },{
     "appid": "503277705819586582",
     "image":"sakuraquest",
     "title": "Sakura Quest",
-    "regExp": "サクラクエスト|sakura.[kuesuto|quest]"
+    "regExp": "sakura.[kuesuto|quest]|サクラクエスト"
   },{
     "appid": "503277705819586582",
     "image":"wangguxianqiong",

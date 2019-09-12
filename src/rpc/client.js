@@ -5,12 +5,26 @@ const format = require('./format.js');
 const log = require('../helpers/lager.js');
 const MetaBank = require('../helpers/metabank.js');
 
+let loginFunction = (client) => {
+  client
+    .login({ clientId: config.rpc.id })
+    .then(() => {
+      setInterval(update, config.rpc.updateInterval);
+    })
+    .catch((err) => {
+      throw err;
+    });
+}
+let options = {
+  hostname: config.repository.address,
+  port: config.repository.port,
+};
+
 let client = new RPC.Client({ transport: 'ipc' });
 let awake = true;
 let timeInactive = 0;
-let metabank = new MetaBank();
+let metabank = new MetaBank(config.repository.address, loginFunction, client);
 let lastID = config.rpc.id;
-
 
 /**
  * @function update
@@ -65,12 +79,3 @@ async function update() {
     }
   });
 }
-
-client
-  .login({ clientId: config.rpc.id })
-  .then(() => {
-    setInterval(update, config.rpc.updateInterval);
-  })
-  .catch((err) => {
-    throw err;
-  });

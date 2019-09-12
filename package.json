@@ -6,6 +6,7 @@
   "dependencies": {
     "discord-rpc": "^3.0.1",
     "fs": "0.0.1-security",
+    "http": "0.0.0",
     "vlc.js": "^1.2.0"
   },
   "scripts": {

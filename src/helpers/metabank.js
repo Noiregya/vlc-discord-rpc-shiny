@@ -1,7 +1,8 @@
 const fs = require('fs');
+const http = require('http')
 
 class MetaBank{
-  constructor(url){
+  constructor(options, loginCallback, client){
     this.databank = new Object();
     this.findMeta = (title) => {
       if(title){
@@ -18,21 +19,31 @@ class MetaBank{
       }
       return undefined;
     };
-    if(url){
-      let stream = fs.createReadStream(url);
-      stream.on('readable', function() {
-        // There is some data to read now.
-        let data;
-        let string = "";
-        while (data = this.read()) {
-          string += data;
-        }
-        stream.close();
+      let string = '';
+      const req = http.request(options, (res) => {
+
+        res.setEncoding('utf8');
+        res.on('data', (chunk) => {
+          string += chunk;
+        });
+        res.on('end', () => {
+          try{
+            this.databank = JSON.parse(string);
+            loginCallback(client);
+          }catch(err){
+            console.error(err);
+            console.error(`STATUS: ${res.statusCode}`);
+            this.databank = JSON.parse(fs.readFileSync('metabank.json', 'utf8'));
+            loginCallback(client);
+          }
+        });
       });
-      this.databank= JSON.parse(string);
-    }else{
-      this.databank = JSON.parse(fs.readFileSync('metabank.json', 'utf8'));
-    }
+      req.on('error', (e) => {
+        console.error(`problem with request: ${e.message}`);
+        this.databank = JSON.parse(fs.readFileSync('metabank.json', 'utf8'));
+        loginCallback(client);
+      });
+    req.end();
   }
 }
 module.exports = MetaBank;

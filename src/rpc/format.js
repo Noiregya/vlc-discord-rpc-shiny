@@ -1,5 +1,4 @@
 const log = require('../helpers/lager.js');
-//const log = require('../helpers/metabank.js');
 
 module.exports = (status) => {
   // if playback is stopped
