@@ -32,11 +32,6 @@
   },{
     "appid": "503277705819586582",
     "image":"bookofatlantic",
-    "title": "Girls' Last Tour",
-    "regExp": "girl[']?s[']?.last.tour|少女終末旅行|shōjo.shūmatsu.ryokō"
-  },{
-    "appid": "503277705819586582",
-    "image":"bookofatlantic",
     "title": "Black Butler: Book of the Atlantic",
     "regExp": "black.butler:.book.of.the.atlantic|劇場版.[.]?黒執事.book.of.the.atlantic|gekijō-ban.kuroshitsuji:.book.of.the.atlantic"
   },{
@@ -324,5 +319,495 @@
     "image":"tsuredurechildren",
     "title": "Tsuredure Children",
     "regExp": "tsuredure.children|徒然チルドレン|tsurezure.chirudoren"
+  },{
+    "appid": "620308640586268712",
+    "image":"hinamatsuri",
+    "title": "Hinamatsuri",
+    "regExp": "hinamatsuri|ヒナまつり|hina.festival"
+  },{
+    "appid": "620308640586268712",
+    "image":"sorayorimo",
+    "title": "A place further than the Universe",
+    "regExp": "sora.yori.mo.tooi.basho|a.place.further.than.the.universe|宇宙よりも遠い場所"
+  },{
+    "appid": "620308640586268712",
+    "image":"maquia",
+    "title": "Maquia: When the Promised Flower Blooms",
+    "regExp": "maquia|さよならの朝に約束の花をかざろう|sayoasa|さよ朝|sayonara.no.asa.ni.yakusoku.no.hana.o.kazar[ō|ou|o]"
+  },{
+    "appid": "620308640586268712",
+    "image":"rascal",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "regExp": "aobuta|青ブタ|seishun.buta.yar[ō|ou|o]|rascal.does.not.dream.of.bunny.girl.senpai"
+  },{
+    "appid": "620308640586268712",
+    "image":"violetevergarden",
+    "title": "Violet Evergarden",
+    "regExp": "violet.evergarden|ヴァイオレット.エヴァーガーデン|vaioretto.ev[ā|a|aa]g[ā|a|aa]den"
+  },{
+    "appid": "620308640586268712",
+    "image":"pancreas",
+    "title": "I Want to Eat Your Pancreas",
+    "regExp": "i.want.to.eat.your.pancreas|君の膵臓をたべたい|kimi.no.suiz[ō|ou|o].o.tabetai"
+  },{
+    "appid": "620308640586268712",
+    "image":"goldenkamui",
+    "title": "Golden Kamuy",
+    "regExp": "golden.kamuy|ゴールデンカムイ|g[ō|ou|o]ruden.kamui"
+  },{
+    "appid": "620308640586268712",
+    "image":"kakuriyo",
+    "title": "Kakuriyo: Bed and Breakfast for Spirits",
+    "regExp": "kakuriyo[.]?.bed.and.breakfast.for.spirits|かくりよの宿飯|kakuriyo.no.yadomeshi"
+  },{
+    "appid": "620308640586268712",
+    "image":"cellsatwork",
+    "title": "Cells at Work!",
+    "regExp": "cells.at.work|はたらく細胞|hataraku.saib[ō|ou|o]"
+  },{
+    "appid": "620308640586268712",
+    "image":"penguinhighway",
+    "title": "Penguin Highway",
+    "regExp": "penguin.highway|ペンギン.ハイウェイ|pengin.haiwei"
+  },{
+    "appid": "620308640586268712",
+    "image":"asobiasobase",
+    "title": "Asobi Asobase",
+    "regExp": "asobi.asobase|あそびあそばせ"
+  },{
+    "appid": "620308640586268712",
+    "image":"goblinslayer",
+    "title": "Goblin Slayer",
+    "regExp": "goblin.slayer|ゴブリンスレイヤー|goburin.sureiy[ā|aa|a]"
+  },{
+    "appid": "620308640586268712",
+    "image":"shoolbabysitters",
+    "title": "School Babysitters",
+    "regExp": "school.babysitters|学園ベビーシッターズ|gakuen.beb[ī|ii|i]shitt[ā|aa|a]zu"
+  },{
+    "appid": "620308640586268712",
+    "image":"aggretsuko",
+    "title": "Aggretsuko",
+    "regExp": "aggretsuko|aggressive.retsuko|アグレッシブ烈子|aguresshibu.retsuko"
+  },{
+    "appid": "620308640586268712",
+    "image":"lizandtheblue",
+    "title": "Liz and the Blue Bird",
+    "regExp": "liz.and.the.blue.bird|リズと青い鳥|liz.to.aoi.tori"
+  },{
+    "appid": "620308640586268712",
+    "image":"megalobox",
+    "title": "Megalo Box",
+    "regExp": "megalo.box|メガロボクス|megaro.bokusu"
+  },{
+    "appid": "620308640586268712",
+    "image":"grandblue",
+    "title": "Grand Blue",
+    "regExp": "grand.blue|ぐらんぶる|guranburu"
+  },{
+    "appid": "620308640586268712",
+    "image":"bananafish",
+    "title": "Banana Fish",
+    "regExp": "banana.fish|バナナフィッシュ|banana.fisshu"
+  },{
+    "appid": "620308640586268712",
+    "image":"yurucamp",
+    "title": "Laid-Back Camp",
+    "regExp": "laid.back.camp|ゆるキャン|yurukyan"
+  },{
+    "appid": "620308640586268712",
+    "image":"wotakoi",
+    "title": "Wotakoi: Love Is Hard for Otaku",
+    "regExp": "wotakoi[.]?.love.is.hard.for.otaku|ヲタクに恋は難しい|wotaku.ni.koi.wa.muzukashii"
+  },{
+    "appid": "620308640586268712",
+    "image":"yotsuiro",
+    "title": "Rokuhōdō Yotsuiro Biyori",
+    "regExp": "rokuh[ō|ou|o]d[ō|ou|o].yotsuiro.biyori|鹿楓堂よついろ日和"
+  },{
+    "appid": "620308640586268712",
+    "image":"spiritpact",
+    "title": "Spiritpact",
+    "regExp": "spiritpact|スピリットパクト|supirittopakuto|灵契|ling.q"
+  },{
+    "appid": "620308640586268712",
+    "image":"aftertherain",
+    "title": "After the Rain",
+    "regExp": "after.the.rain|恋は雨上がりのように|koi.wa.ameagari.no.y[ō|ou|o].ni"
+  },{
+    "appid": "620308640586268712",
+    "image":"daikaichi",
+    "title": "DAKAICHI -I'm being harassed by the sexiest man of the year-",
+    "regExp": "dakareta.otoko.[1-i|ichii|no.[.|..]?1].ni.odosarete[.]?imasu|抱かれたい男1位に脅されています。"
+  },{
+    "appid": "620308640586268712",
+    "image":"mummy",
+    "title": "How to Keep a Mummy",
+    "regExp": "how.to.keep.a.mummy|miira.no.kaikata|ミイラの飼い方"
+  },{
+    "appid": "620308640586268712",
+    "image":"karakai",
+    "title": "Karakai Jouzu no Takagi-san",
+    "regExp": "karakai.jouzu.no.takagi[.]?san|teasing.master.takagi[.]?san|からかい上手の高木さん"
+  },{
+    "appid": "624965661554114571",
+    "image":"yowamushi",
+    "title": "Yowamushi Pedal",
+    "regExp": "yowamushi.pedal|yowapeda|弱虫ペダル"
+  },{
+    "appid": "620308640586268712",
+    "image":"idolish7",
+    "title": "IDOLiSH7",
+    "regExp": "idolish[.]?[7[seven]|アイドリッシュセブン]"
+  },{
+    "appid": "620308640586268712",
+    "image":"devilman",
+    "title": "DEVILMAN Crybaby",
+    "regExp": "devilman.crybaby|デビルマン|debiruman"
+  },{
+    "appid": "620308640586268712",
+    "image":"darling",
+    "title": "Darling in the Franxx",
+    "regExp": "darling.in.the.franxx|ダーリン.イン.ザ.フランキス|d[ā|a|aa]rin.in.za.furankisu"
+  },{
+    "appid": "620308640586268712",
+    "image":"iroduku",
+    "title": "Iroduku: The World in Colors",
+    "regExp": "iroduku[.]?.the.world.in.colors|色づく世界の明日から|irozuku.sekai.no.ashita.kara"
+  },{
+    "appid": "620308640586268712",
+    "image":"hiscore",
+    "title": "Hi Score Girl",
+    "regExp": "hi.score.girl|ハイスコアガール|hai.sukoa.g[ā|aa|a]ru)"
+  },{
+    "appid": "620308640586268712",
+    "image":"bloomintoyou",
+    "title": "Bloom Into You",
+    "regExp": "bloom.into.you|やがて君になる|yagate.kimi.ni.karu"
+  },{
+    "appid": "620308640586268712",
+    "image":"tadaneverfall",
+    "title": "Tada Never Falls in Love",
+    "regExp": "tada.never.falls.in.love|多田くんは恋をしない|tada.kun.wa.koi.o.shinai"
+  },{
+    "appid": "620308640586268712",
+    "image":"zombieland",
+    "title": "Zombie Land Saga",
+    "regExp": "zombie.land.saga|ゾンビランドサガ|zonbi.rando.saga"
+  },{
+    "appid": "620308640586268712",
+    "image":"feizen",
+    "title": "Fei Ren Zai",
+    "regExp": "fei.ren.zai|shenme.gui|神么鬼|non.human|非人哉"
+  },{
+    "appid": "620308640586268712",
+    "image":"bthebeginning",
+    "title": "B: The Beginning",
+    "regExp": "b[.]?.the.beginning"
+  },{
+    "appid": "620308640586268712",
+    "image":"dragonpilot",
+    "title": "Dragon Pilot: Hisone and Masotan",
+    "regExp": "hisone.and.masotan|ひそねとまそたん|hisone.to.masotan)"
+  },{
+    "appid": "620308640586268712",
+    "image":"hakumei",
+    "title": "Hakumei and Mikochi",
+    "regExp": "hakumei.and.mikochi|ハクメイとミコチ|hakumei.to.mikochi"
+  },{
+    "appid": "620308640586268712",
+    "image":"pianomori",
+    "title": "Piano no Mori: The Perfect World of Kai",
+    "regExp": "piano.no.mori|ピアノの森|the.perfect.world.of.kai"
+  },{
+    "appid": "620308640586268712",
+    "image":"chiosschoolroad",
+    "title": "Chio's School Road",
+    "regExp": "chio[']?s.school.road|ちおちゃんの通学路|chio[.]?chan.no.ts[u|uu|ū]gakuro"
+  },{
+    "appid": "620308640586268712",
+    "image":"juliet",
+    "title": "Boarding School Juliet",
+    "regExp": "boarding.school.juliet|寄宿学校のジュリエット|kishuku.gakk[ou|o|ō].no.jurietto"
+  },{
+    "appid": "620308640586268712",
+    "image":"modestheroes",
+    "title": "Modest Heroes",
+    "regExp": "modest.heroes|ちいさな英雄－カニとタマゴと透明人間|ch[ī|i|ii]sana.eiy[ū|uu|u]"
+  },{
+    "appid": "620308640586268712",
+    "image":"hownottosummon",
+    "title": "How Not to Summon a Demon Lord",
+    "regExp": "how.not.to.summon.a.demon.lord|異世界魔王と召喚少女の奴隷魔術|isekai.ma[o|ou|ō].to.sh[o|ou|ō]kan.sh[o|ou|ō]jo.no.dorei.majutsu"
+  },{
+    "appid": "620308640586268712",
+    "image":"hakata",
+    "title": "Hakata Tonkotsu Ramens",
+    "regExp": "hakata.tonkotsu.ramens|博多豚骨ラーメンズ"
+  },{
+    "appid": "620308640586268712",
+    "image":"magicalgirlore",
+    "title": "Magical Girl Ore",
+    "regExp": "magical.girl.[ore|boy]|魔法少女俺|mah[o|ou|ō].sh[o|ou|ō]jo.ore"
+  },{
+    "appid": "620308640586268712",
+    "image":"takunomi",
+    "title": "Takunomi",
+    "regExp": "takunomi|たくのみ"
+  },{
+    "appid": "620308640586268712",
+    "image":"ingress",
+    "title": "INGRESS THE ANIMATION",
+    "regExp": "ingress.the.animation"
+  },{
+    "appid": "620308640586268712",
+    "image":"voiceoffox",
+    "title": "Voice of fox",
+    "regExp": "voice.of.?fox|kitsune.no.koe|kori.no.koe|狐狸之声"
+  },{
+    "appid": "620308640586268712",
+    "image":"wakaokami",
+    "title": "Wakaokami wa Shougakusei!",
+    "regExp": "wakaokami.wa.shougakusei|若おかみは小学生|okko.s.inn"
+  },{
+    "appid": "620308640586268712",
+    "image":"muhyo",
+    "title": "Muhyo & Roji's Bureau of Supernatural Investigation",
+    "regExp": "muhyo.[&|and|to].r[o|oo|ō]j[i|ii|ī]|ムヒョとロージーの魔法律相談事務所"
+  },{
+    "appid": "620308640586268712",
+    "image":"happykiss",
+    "title": "Cute High Earth Defense Club Happy Kiss!",
+    "regExp": "美男高校地球防衛部happy.kiss|cute.high.earth.defense.club.happy.kiss|binan.k[o|ō|ou]k[o|ō|ou].chiky[ū|uu|u].b[o|ō|ou]ei[-]?bu.happy.kiss"
+  },{
+    "appid": "620308640586268712",
+    "image":"katanamaidens",
+    "title": "Katana Maidens: Toji no Miko",
+    "regExp": "katana.maidens|toji.no.miko|刀使ノ巫女|"
+  },{
+    "appid": "620308640586268712",
+    "image":"mitchirineko",
+    "title": "Mitchiri Neko",
+    "regExp": "mi[t|c]chiri[.]?neko|みっちりねこ"
+  },{
+    "appid": "620308640586268712",
+    "image":"tobeheroine",
+    "title": "To Be Hero",
+    "regExp": "tu.bian.ying.xiong.leaf|to.be.hero|トゥ・ビー・ヒーロー|凸变英雄"
+  },{
+    "appid": "620308640586268712",
+    "image":"werenttsuku",
+    "title": "We Rent Tsukumogami",
+    "regExp": "we.rent.tsukumogami|tsukumogami.kashimasu|つくもがみ貸します"
+  },{
+    "appid": "620308640586268712",
+    "image":"releasethespyce",
+    "title": "Release the Spyce",
+    "regExp": "リリース ザ スパイス|release.the.spyce|rir[ī|i|ii]su.za.supaisu"
+  },{
+    "appid": "620308640586268712",
+    "image":"hashiritsuzu",
+    "title": "Hashiri Tsuzukete Yokattatte",
+    "regExp": "hashiri.tsuzukete.tokattatte|走り続けてよかったって|i[']?.m.glad.i.could.keep.running"
+  },{
+    "appid": "620308640586268712",
+    "image":"phantominthetwillight",
+    "title": "Phantom in the Twilight",
+    "regExp": "phantom.in.the.twilight|ファントム イン ザ トワイライト|fantomu.in.za.towairaito"
+  },{
+    "appid": "620308640586268712",
+    "image":"killingbites",
+    "title": "Killing Bites",
+    "regExp": "キリングバイツ|kiringu.baitsu|killing.bites"
+  },{
+    "appid": "620308640586268712",
+    "image":"caretaker",
+    "title": "Miss Caretaker of Sunohara-sou",
+    "regExp": "miss.caretaker.of.sunohara[-|.]?sou|すのはら荘の管理人さん|sunohara[-|.]?s[ō|o|ou].no.kanrinin[-|.]?san"
+  },{
+    "appid": "620308640586268712",
+    "image":"sweettyran",
+    "title": "My Sweet Tyrant",
+    "regExp": "my.sweet.tyrant|akkun.and.his.girlfriend|あっくんとカノジョ"
+  },{
+    "appid": "620308640586268712",
+    "image":"citrus",
+    "title": "Citrus",
+    "regExp": "citrus|シトラス"
+  },{
+    "appid": "620308640586268712",
+    "image":"poptepipic",
+    "title": "Pop Team Epic",
+    "regExp": "pop.team.epic|poptepipic|ポプテピピック|poputepipikku"
+  },{
+    "appid": "620308640586268712",
+    "image":"slowstart",
+    "title": "Slow Start",
+    "regExp": "スロウスタート|surou.sut[ā|aa|a]to|slow.start"
+  },{
+    "appid": "620308640586268712",
+    "image":"harukana",
+    "title": "Harukana Receive",
+    "regExp": "harukana.receive|はるかなレシーブ"
+  },{
+    "appid": "620308640586268712",
+    "image":"holmesofkyoto",
+    "title": "Holmes of Kyoto",
+    "regExp": "holmes.of.kyoto|ky[o|ō|ou]to.teramachi.sanj[ou|o|ō].no.holmes|京都寺町三条のホームズ"
+  },{
+    "appid": "620308640586268712",
+    "image":"animayell",
+    "title": "Anima Yell!",
+    "regExp": "anima.yell|アニマエール|anima.[e|ee|ē|ei]ru"
+  },{
+    "appid": "620308640586268712",
+    "image":"uzamaid",
+    "title": "UzaMaid!",
+    "regExp": "uzamaid|うちのメイドがウザすぎる"
+  },{
+    "appid": "620308640586268712",
+    "image":"A.I.C.O. Incarnation",
+    "title": "incarnation",
+    "regExp": "a.i.c.o..[-]?incarnation[-]?|aico"
+  },{
+    "appid": "620308640586268712",
+    "image":"angelsofdeath",
+    "title": "Angels of Death",
+    "regExp": "angels.of.death|satsuriku.no.tenshi|殺戮の天使"
+  },{
+    "appid": "620308640586268712",
+    "image":"asmissbeelzebub",
+    "title": "As Miss Beelzebub Likes",
+    "regExp": "as.miss.beelzebub.likes|ベルゼブブ嬢のお気に召すまま|beruzebubu[.]?j[ō|o|ou].no.okinimesu.mama"
+  },{
+    "appid": "620308640586268712",
+    "image":"Yuuna and the Haunted Hot Springs",
+    "title": "yuunaandthehaunted",
+    "regExp": "yuuna.and.the.haunted.hot.springs|ゆらぎ荘の幽奈さん|yuragi[.]?s[ō|o|ou].no.y[ū|u|uu]na[.]?san"
+  },{
+    "appid": "620308640586268712",
+    "image":"umamusume",
+    "title": "Uma Musume: Pretty Derby",
+    "regExp": "uma.musume|ウマ娘 プリティーダービー"
+  },{
+    "appid": "620308640586268712",
+    "image":"Hora, Mimi ga Mieteru yo!",
+    "title": "horamimiga",
+    "regExp": "hora[,]?.mimi.ga.mieteru.yo|wei[,]?.kanjian.erduo.la|喂[，|.]看見耳朵啦"
+  },{
+    "appid": "620308640586268712",
+    "image":"isekaiizakaya",
+    "title": "Isekai Izakaya: Japanese Food From Another World",
+    "regExp": "isekai.izakaya|異世界居酒屋～古都アイテーリアの居酒屋のぶ"
+  },{
+    "appid": "620308640586268712",
+    "image":"grindman",
+    "title": "SSSS.Gridman",
+    "regExp": "ssss.grindman|superhuman.samurai.syber.squad.gridman|グリッドマン|guriddoman"
+  },{
+    "appid": "620308640586268712",
+    "image":"siriusthejaeger",
+    "title": "Sirius the Jaeger",
+    "regExp": "sirius.the.jaeger|shiriusu.shiriusu.za.y[ē|ee|ei]g[ā|a|aa]|天狼[.]?シリウス"
+  },{
+    "appid": "620308640586268712",
+    "image":"Kokkoku: Moment by Moment",
+    "title": "kokkoku",
+    "regExp": "刻刻|kokkoku"
+  },{
+    "appid": "620308640586268712",
+    "image":"mitsuboshi",
+    "title": "Mitsuboshi Colors",
+    "regExp": "三ツ星カラーズ|mitsuboshi.colors"
+  },{
+    "appid": "620308640586268712",
+    "image":"planetwith",
+    "title": "Planet With",
+    "regExp": "プラネット・ウィズ|puranetto.wizu|planet.with"
+  },{
+    "appid": "620308640586268712",
+    "image":"angolmois",
+    "title": "Angolmois: Record of Mongol Invasion",
+    "regExp": "angolmois|アンゴルモア"
+  },{
+    "appid": "620308640586268712",
+    "image":"deathmarch",
+    "title": "Death March to the Parallel World Rhapsody",
+    "regExp": "death.march.to.the.parallel.world.rhapsody|デスマーチからはじまる異世界狂想曲"
+  },{
+    "appid": "620308640586268712",
+    "image":"comicgirls",
+    "title": "Comic Girls",
+    "regExp": "comic.girls|こみっくがーるず"
+  },{
+    "appid": "620308640586268712",
+    "image":"lostsong",
+    "title": "Lost Song",
+    "regExp": "ロスト ソング|rosuto.songu|lost.song"
+  },{
+    "appid": "620308640586268712",
+    "image":"skullface",
+    "title": "Skull-face Bookseller Honda-san",
+    "regExp": "skull[.]?face.bookseller.honda[.]?san|ガイコツ書店員本田さん|gaikotsu.shotenin.honda[.]?san"
+  },{
+    "appid": "620308640586268712",
+    "image":"shoujokageki",
+    "title": "Shoujo☆Kageki Revue Starlight",
+    "regExp": "sh[ou|o|ō]jo.kageki|revue.starlight|少女☆歌劇 レヴュー・スタァライト"
+  },{
+    "appid": "620308640586268712",
+    "image":"grandcrest",
+    "title": "Record of Grancrest War",
+    "regExp": "record.of.grancrest.war|grancrest.senki|グランクレスト戦記"
+  },{
+    "appid": "620308640586268712",
+    "image":"amanchu",
+    "title": "Amanchu! Advance",
+    "regExp": "amanchu|あまんちゅ"
+  },{
+    "appid": "620308640586268712",
+    "image":"baki",
+    "title": "Baki the Grappler",
+    "regExp": "baki|バキ"
+  },{
+    "appid": "620308640586268712",
+    "image":"slime",
+    "title": "Tensei shitara Slime Datta Ken",
+    "regExp": "転生したらスライムだった件|tensura.tensei.shitara.slime.datta.ken|that.time.i.got.reincarnated.as.a.slime"
+  },{
+    "appid": "620308640586268712",
+    "image":"danceswiththegragons",
+    "title": "Dances with the Dragons",
+    "regExp": "されど罪人は竜と踊る|dances.with.the.dragons|saredo.tsumibito.wa.ryuu.to.odoru"
+  },{
+    "appid": "620308640586268712",
+    "image":"",
+    "title": "",
+    "regExp": ""
+  },{
+    "appid": "620308640586268712",
+    "image":"",
+    "title": "",
+    "regExp": ""
+  },{
+    "appid": "620308640586268712",
+    "image":"",
+    "title": "",
+    "regExp": ""
+  },{
+    "appid": "620308640586268712",
+    "image":"",
+    "title": "",
+    "regExp": ""
+  },{
+    "appid": "620308640586268712",
+    "image":"",
+    "title": "",
+    "regExp": ""
+  },{
+    "appid": "620308640586268712",
+    "image":"",
+    "title": "",
+    "regExp": ""
   }
 ]
