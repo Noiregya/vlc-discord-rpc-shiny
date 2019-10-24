@@ -478,7 +478,7 @@
     "appid": "620308640586268712",
     "image":"hiscore",
     "title": "Hi Score Girl",
-    "regExp": "hi.score.girl|ハイスコアガール|hai.sukoa.g[ā|aa|a]ru)"
+    "regExp": "hi.score.girl|ハイスコアガール|hai.sukoa.g[ā|aa|a]ru"
   },{
     "appid": "620308640586268712",
     "image":"bloomintoyou",
@@ -508,7 +508,7 @@
     "appid": "620308640586268712",
     "image":"dragonpilot",
     "title": "Dragon Pilot: Hisone and Masotan",
-    "regExp": "hisone.and.masotan|ひそねとまそたん|hisone.to.masotan)"
+    "regExp": "hisone.and.masotan|ひそねとまそたん|hisone.to.masotan"
   },{
     "appid": "620308640586268712",
     "image":"hakumei",
@@ -583,7 +583,7 @@
     "appid": "620308640586268712",
     "image":"katanamaidens",
     "title": "Katana Maidens: Toji no Miko",
-    "regExp": "katana.maidens|toji.no.miko|刀使ノ巫女|"
+    "regExp": "katana.maidens|toji.no.miko|刀使ノ巫女"
   },{
     "appid": "620308640586268712",
     "image":"mitchirineko",
@@ -772,8 +772,8 @@
   },{
     "appid": "620308640586268712",
     "image":"slime",
-    "title": "Tensei shitara Slime Datta Ken",
-    "regExp": "転生したらスライムだった件|tensura.tensei.shitara.slime.datta.ken|that.time.i.got.reincarnated.as.a.slime"
+    "title": "Tensei Shitara Slime Datta Ken",
+    "regExp": "転生したらスライムだった件|tensei.shitara.slime.datta.ken|that.time.i.got.reincarnated.as.a.slime"
   },{
     "appid": "620308640586268712",
     "image":"danceswiththegragons",
