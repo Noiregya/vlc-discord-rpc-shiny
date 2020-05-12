@@ -28,7 +28,12 @@ class MetaBank{
         });
         res.on('end', () => {
           try{
-            this.databank = JSON.parse(string);
+            let online = JSON.parse(string);
+            let offline = JSON.parse(fs.readFileSync('metabank.json', 'utf8'));
+            this.databank = [...offline,...online];
+
+            //this.databank = JSON.parse(fs.readFileSync('metabank.json', 'utf8'))
+            console.error(this.databank[this.databank.length - 1]);
             loginCallback(client);
           }catch(err){
             console.error(err);
